@@ -1,0 +1,3 @@
+[submodule "SortingAlgos"]
+	path = SortingAlgos
+	url = .\\SortingAlgos
