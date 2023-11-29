@@ -45,5 +45,6 @@ public class Program39 {
         System.out.print("Enter breadth for circle: ");
         double radius = sc.nextDouble();
         area.circleArea(radius);
+        sc.close();
     }
 }
